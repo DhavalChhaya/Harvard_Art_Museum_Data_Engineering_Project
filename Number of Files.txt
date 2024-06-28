@@ -1,0 +1,46 @@
+Object
+Resource: Object, Total Records: 244658, Number of Pages: 2447
+Person
+Resource: Person, Total Records: 41607, Number of Pages: 417
+Exhibition
+Resource: Exhibition, Total Records: 4931, Number of Pages: 50
+Publication
+Resource: Publication, Total Records: 17408, Number of Pages: 175
+Gallery
+Resource: Gallery, Total Records: 64, Number of Pages: 1
+Spectrum
+Resource: Spectrum, Total Records: 366, Number of Pages: 4
+Classification
+Resource: Classification, Total Records: 63, Number of Pages: 1
+Century
+Resource: Century, Total Records: 47, Number of Pages: 1
+Color
+Resource: Color, Total Records: 147, Number of Pages: 2
+Culture
+Resource: Culture, Total Records: 255, Number of Pages: 3
+Group
+Resource: Group, Total Records: 30, Number of Pages: 1
+Medium
+Resource: Medium, Total Records: 323, Number of Pages: 4
+Support
+Resource: Support, Total Records: 362, Number of Pages: 4
+Period
+Resource: Period, Total Records: 322, Number of Pages: 4
+Place
+Resource: Place, Total Records: 2545, Number of Pages: 26
+Technique
+Resource: Technique, Total Records: 320, Number of Pages: 4
+Worktype
+Resource: Worktype, Total Records: 410, Number of Pages: 5
+Activity
+Resource: Activity, Total Records: 14150876, Number of Pages: 141509
+Site
+Resource: Site, Total Records: 3, Number of Pages: 1
+Video
+Resource: Video, Total Records: 52, Number of Pages: 1
+Image
+Resource: Image, Total Records: 387984, Number of Pages: 3880
+Audio
+Resource: Audio, Total Records: 13, Number of Pages: 1
+Annotation
+Resource: Annotation, Total Records: 53321995, Number of Pages: 533220
