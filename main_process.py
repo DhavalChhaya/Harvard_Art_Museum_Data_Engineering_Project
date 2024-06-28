@@ -3,7 +3,7 @@
 import os
 import json
 import sys  # Import sys module for modifying Python path
-sys.path.append(r'D:\Project\Harvard-Art_Museum')  # Add the directory containing db_utils.py to the Python path
+sys.path.append(r'Your_Path')  # Add the directory containing db_utils.py to the Python path
 from db_utils import get_db_connection, close_db_connection, upload_json_to_sql
 
 # Function to process all JSON files in a directory
@@ -38,6 +38,6 @@ def process_json_files(directory, target_folders):
 
 # Usage example
 if __name__ == "__main__":
-    directory = r'D:\Project\Harvard-Art_Museum\Data'
+    directory = r'Your_Path'
     target_folders = ['activity', 'annotation', 'audio', 'century', 'classification', 'color', 'culture', 'exhibition', 'gallery', 'group']
     process_json_files(directory, target_folders)
