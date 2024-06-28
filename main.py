@@ -37,7 +37,7 @@ resources = [
 ]
 
 # Directory to save the data files
-output_dir = 'D:\Project\Harvard-Art_Museum'
+output_dir = 'Your_path'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
