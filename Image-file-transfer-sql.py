@@ -4,8 +4,8 @@ from datetime import datetime
 import os
 
 # Define your SQL Server connection parameters
-server = 'DESKTOP-5BLFN3I'
-database = 'Harvard_Art_Museum'
+server = 'Sever_name' # Change with Your Server name
+database = 'Your_Database' # Change with your Database
 driver = 'ODBC Driver 18 for SQL Server'  # Use the correct ODBC driver
 
 # Connection string for Windows Authentication with TrustServerCertificate=yes
@@ -101,5 +101,5 @@ def process_json_files(directory):
 
 # Usage example
 if __name__ == "__main__":
-    directory = r'D:\Project\Harvard-Art_Museum\Data\image'  # Directory containing JSON files
+    directory = r'Your_path'  # Directory containing JSON files
     process_json_files(directory)
