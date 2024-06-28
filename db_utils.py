@@ -4,8 +4,8 @@ import pyodbc
 from datetime import datetime
 
 # Define your SQL Server connection parameters
-server = 'DESKTOP-5BLFN3I'
-database = 'Harvard_Art_Museum'
+server = 'Your_server'
+database = 'Your_Database'
 driver = 'ODBC Driver 18 for SQL Server'  # Use the correct ODBC driver
 
 # Connection string for Windows Authentication with TrustServerCertificate=yes
