@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1653930019,
+        "objectid": 230164,
+        "date": "2024-06-25",
+        "activitytype": "studycenterviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:10-0400"
+    },
+    {
+        "id": 1673200529,
+        "objectid": 363090,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:10-0400"
+    },
+    {
+        "id": 1238526010,
+        "objectid": 99817,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:10-0400"
+    },
+    {
+        "id": 1650406545,
+        "objectid": 290405,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:10-0400"
+    },
+    {
+        "id": 108978636,
+        "objectid": 205357,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:10-0400"
+    },
+    {
+        "id": 114975948,
+        "objectid": 231080,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:10-0400"
+    },
+    {
+        "id": 1732331153,
+        "objectid": 94231,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:10-0400"
+    },
+    {
+        "id": 1701764753,
+        "objectid": 221071,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:10-0400"
+    },
+    {
+        "id": 20665292,
+        "objectid": 288671,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 107737804,
+        "objectid": 210750,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1300248890,
+        "objectid": 382904,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 128084940,
+        "objectid": 196263,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 771532,
+        "objectid": 349961,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1266671418,
+        "objectid": 206942,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1709285777,
+        "objectid": 250096,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1252235834,
+        "objectid": 193563,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1297253180,
+        "objectid": 328962,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 3,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1649674897,
+        "objectid": 288091,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 109219532,
+        "objectid": 253506,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1702810003,
+        "objectid": 216960,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 3,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 31462860,
+        "objectid": 310489,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1695804817,
+        "objectid": 205500,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1289585722,
+        "objectid": 297477,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1255181626,
+        "objectid": 165644,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 104679887,
+        "objectid": 221573,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 2,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1263060794,
+        "objectid": 204614,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 126501314,
+        "objectid": 185997,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 15,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1259244346,
+        "objectid": 219402,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 4157388,
+        "objectid": 353187,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1649584273,
+        "objectid": 287737,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1284932667,
+        "objectid": 311557,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 2,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 105245388,
+        "objectid": 203046,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1647245091,
+        "objectid": 211227,
+        "date": "2024-06-25",
+        "activitytype": "studycenterviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1266058042,
+        "objectid": 205058,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1690334609,
+        "objectid": 192804,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1662577297,
+        "objectid": 338363,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1698940561,
+        "objectid": 225943,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1664856465,
+        "objectid": 330464,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1242904634,
+        "objectid": 148153,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 28182732,
+        "objectid": 324292,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1249655098,
+        "objectid": 142264,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1305592634,
+        "objectid": 362050,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1245556538,
+        "objectid": 158254,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1260911930,
+        "objectid": 225404,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 102004684,
+        "objectid": 215227,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1286411580,
+        "objectid": 326292,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 3,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 115307724,
+        "objectid": 230328,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1696774547,
+        "objectid": 201704,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 3,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1272222271,
+        "objectid": 230163,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 6,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1266144061,
+        "objectid": 204882,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 4,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1277208890,
+        "objectid": 292648,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1695030931,
+        "objectid": 211279,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 3,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1654416017,
+        "objectid": 306483,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1219998778,
+        "objectid": 57397,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1289376570,
+        "objectid": 298450,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1675704977,
+        "objectid": 381035,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1649889425,
+        "objectid": 288257,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1250239804,
+        "objectid": 184996,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 3,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1216959803,
+        "objectid": 57044,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 2,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1276324154,
+        "objectid": 279720,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 27215820,
+        "objectid": 312203,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 107822540,
+        "objectid": 209393,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 3126988,
+        "objectid": 357242,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1262718778,
+        "objectid": 201742,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1726323089,
+        "objectid": 54472,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 129133518,
+        "objectid": 192167,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 3,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 105050828,
+        "objectid": 204350,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 133692108,
+        "objectid": 174902,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1208380730,
+        "objectid": 20972,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1308520506,
+        "objectid": 371185,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 110384844,
+        "objectid": 247962,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 103471567,
+        "objectid": 226837,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 2,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1298927418,
+        "objectid": 342926,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1272822588,
+        "objectid": 231994,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 3,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1264817210,
+        "objectid": 209941,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1284364602,
+        "objectid": 318040,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1259846971,
+        "objectid": 213052,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 2,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 116944076,
+        "objectid": 238752,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1289510970,
+        "objectid": 297953,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 113044428,
+        "objectid": 253991,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1670783889,
+        "objectid": 370546,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1284102972,
+        "objectid": 319066,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 3,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 103247820,
+        "objectid": 228259,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 111894479,
+        "objectid": 259987,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 2,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1302175034,
+        "objectid": 379420,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1696670353,
+        "objectid": 200819,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 104875468,
+        "objectid": 203913,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1290999356,
+        "objectid": 304279,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 3,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1287937082,
+        "objectid": 299997,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 129762508,
+        "objectid": 188616,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1696970641,
+        "objectid": 201958,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1699803025,
+        "objectid": 221630,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1650307217,
+        "objectid": 290017,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1236564282,
+        "objectid": 123896,
+        "date": "2024-06-25",
+        "activitytype": "pageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1692181905,
+        "objectid": 191988,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 105431756,
+        "objectid": 201742,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 91644364,
+        "objectid": 10925,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 26406092,
+        "objectid": 314912,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 31452623,
+        "objectid": 295713,
+        "date": "2024-06-25",
+        "activitytype": "uniquepageviews",
+        "activitycount": 2,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    },
+    {
+        "id": 1651260561,
+        "objectid": 286061,
+        "date": "2024-06-25",
+        "activitytype": "moves",
+        "activitycount": 1,
+        "lastupdate": "2024-06-26T05:39:11-0400"
+    }
+]
